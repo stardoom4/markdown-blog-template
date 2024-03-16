@@ -4,7 +4,7 @@ export default {
      * the URL that this site deployed, is used to generate the rss.xml file
      * 此站点部署的 URL，用于生成 rss.xml 文件
      */
-    homepage: "https://bhznjns.github.io/markdown-blog-template/",
+    homepage: "https://markblog44.netlify.app/",
 
     /**
      * title: String
